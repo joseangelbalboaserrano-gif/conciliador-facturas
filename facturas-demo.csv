@@ -1,0 +1,6 @@
+factura,cliente,moneda,importe
+FAC-001,Estudio Norte,MXN,4500.00
+FAC-002,Taller Central,MXN,3250.50
+FAC-003,Consultoría Sur,MXN,1800.00
+FAC-004,Agencia Horizonte,MXN,2500.00
+FAC-005,Cliente Internacional,USD,125.00
